@@ -5,7 +5,7 @@ A self taught programmer.
 
 * 💙 Frontend Enthusiast
 * ✨ Anime ga suki!
-* 💻 Portfolio (coming soon)
+* 💻 Portfolio [Here!](https://virz-portfolio.vercel.app)
 
 ## Skills 🧠
 ![React](https://img.shields.io/badge/REACT-3C3D37?style=for-the-badge&logo=react)
